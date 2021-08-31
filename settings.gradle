@@ -1,0 +1,2 @@
+rootProject.name = "Shamika_C196_WGU_Scheduler"
+include ':app'
