@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/refresh"
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:title="@string/delete"
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:title="@string/share"
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/notifystart"
+        android:orderInCategory="100"
+        android:title="Course Start Notification"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/notifyend"
+        android:orderInCategory="100"
+        android:title="Course End Notification"
+        app:showAsAction="never"/>
+</menu>

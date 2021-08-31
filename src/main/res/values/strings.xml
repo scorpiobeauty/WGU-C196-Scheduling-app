@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Shamika_C196_WGU_Scheduler</string>
+    <string name="scheduling_app">SCHEDULING APP</string>
+    <string name="enter">ENTER</string>
+    <string name="course_instructor">Course Instructor</string>
+    <string name="course_list">COURSE LIST</string>
+    <string name="term_list">TERM LIST</string>
+    <string name="assessment_list">Assessment List</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_item_detail_host">Item Detail Host Activity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_term_detail">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="save">Save</string>
+    <string name="term_end_date">Term End Date</string>
+    <string name="term_start_date">Term Start Date</string>
+    <string name="term_title">Term Title</string>
+    <string name="course_title">Course Title</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="status">Status</string>
+    <string name="in_progress_completed">completed</string>
+    <string name="instructor_name">Instructor Name</string>
+    <string name="carolyn">Carolyn</string>
+    <string name="instructor_email">Instructor Email</string>
+    <string name="carolyn_wgu_edu">carolyn@wgu.edu</string>
+    <string name="_555_555_5555">555–555-5555</string>
+    <string name="c196">C196</string>
+    <string name="notification">Notification</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="type">Type</string>
+    <string name="title">Title</string>
+    <string name="channel_name">channelName</string>
+    <string name="_08_02_2022">08-02-2022</string>
+    <string name="_08_02_2021">08-02-2021</string>
+    <string name="channel_description">channel description</string>
+    <string name="notes">Notes</string>
+    <string name="select_a_term_below_or_click_the_add_button_to_create_a_new_term">Select a Term Below or Click the add button to create a New Term</string>
+    <string name="assessment_start_notification">Assessment Start Notification</string>
+    <string name="assessment_end_notification">Assessment End Notification</string>
+
+</resources>

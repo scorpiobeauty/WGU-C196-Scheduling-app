@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/delete"
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/notifystart"
+        android:orderInCategory="100"
+        android:title="@string/assessment_start_notification"
+        app:showAsAction="never" />
+    <item
+        android:id="@id/notifyend"
+        android:orderInCategory="101"
+        android:title="@string/assessment_end_notification"
+        app:showAsAction="never"/>
+</menu>
